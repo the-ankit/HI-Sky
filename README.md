@@ -1,3 +1,3 @@
 # H! Sky
-Onboard but not bored!!
+Be onboard but not bored!!
 <br />In-flight entertainment cum chatting app.
